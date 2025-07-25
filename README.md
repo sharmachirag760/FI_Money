@@ -1,18 +1,3 @@
-✅ Project description
-
-✅ Features and APIs
-
-✅ Code structure
-
-✅ Setup instructions
-
-✅ Docker info
-
-✅ Screenshots (you’ll just replace image paths)
-
-markdown
-Copy
-Edit
 # 🛒 MERN Stack Product Inventory Management System
 
 A full-stack MERN application with user authentication and admin portal where:
@@ -70,10 +55,6 @@ A full-stack MERN application with user authentication and admin portal where:
 ├── Dockerfile
 ├── README.md
 └── assets/
-
-markdown
-Copy
-Edit
 
 ---
 
@@ -151,6 +132,8 @@ This will start both frontend and backend services.
 
 📸 Screenshots
 🔹 Home Page  
+![Home Page](./assets/a.png)
+![Admin Dashboard](./assets/b.png)
 
 🔹 Admin Dashboard
 
