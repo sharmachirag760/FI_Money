@@ -130,10 +130,8 @@ Edit
 docker-compose up --build
 This will start both frontend and backend services.
 
-📸 Screenshots
+📸 Screenshots (in screenshot folder)
 🔹 Home Page  
-![Home Page](./assets/a.png)
-![Admin Dashboard](./assets/b.png)
 
 🔹 Admin Dashboard
 
