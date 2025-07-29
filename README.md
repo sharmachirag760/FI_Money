@@ -44,6 +44,7 @@ A full-stack MERN application with user authentication and admin portal where:
 │ ├── routes/
 │ ├── middleware/
 │ └── server.js
+| └── dockerfile
 ├── frontend/
 │ ├── src/
 │ │ ├── components/
@@ -51,6 +52,7 @@ A full-stack MERN application with user authentication and admin portal where:
 │ │ ├── services/
 │ │ └── App.jsx
 │ └── public/
+| └── dockerfile
 ├── docker-compose.yml
 ├── Dockerfile
 ├── README.md
