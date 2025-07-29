@@ -15,7 +15,7 @@ services:
     ports:
       - "5500:5500"
     environment:
-      - MONGO_URI=mongodb+srv://sharmachirag760:mASG0mOWpl8C9GTc@cluster0.xv7mpig.mongodb.net/
+      - MONGO_URI='mongodb+srv://sharmachirag760:mASG0mOWpl8C9GTc@cluster0.xv7mpig.mongodb.net/'
     depends_on:
       - mongo
 
